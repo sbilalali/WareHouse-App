@@ -3,6 +3,7 @@
 //Author              : Aslam Bari
 //Date                : 04 March, 2010
 //Description         : Popup Search controller for SearchPage
+//Information    	  : this file added to github
 /******************************************************************************************/
 public class ACSearchController{
    public string qry {get;set;}
